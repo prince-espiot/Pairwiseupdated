@@ -1,0 +1,5 @@
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\Pairwiseupdate\obj\Debug\Pairwiseupdate.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\Pairwiseupdate\bin\Debug\Pairwiseupdate.exe
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\Pairwiseupdate\bin\Debug\Pairwiseupdate.pdb
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\Pairwiseupdate\obj\Debug\Pairwiseupdate.exe
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\Pairwiseupdate\obj\Debug\Pairwiseupdate.pdb
